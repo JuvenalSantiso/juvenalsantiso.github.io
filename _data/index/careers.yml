@@ -1,29 +1,72 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: 4D3 / Estudio de animación y desarrollo de Apps
+    i18n: 4D3 Animation Studio
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I worked at 4D3 using Unity with C#. I was developing a video game for kids.
+    i18n: 
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: February 2014 (3 months)
+    i18n: 
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: Unity Developer Schoolarship
+    i18n: Unity Developer Schoolarship
+  icon: fa-gamepad
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Atos Consulting Group
+    i18n: Atos
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: At the beginning I worked at Atos as an intership. They were teaching me java JEE environment but I ended in android team. I was building hybrids apps and native apps almost a year.
+    i18n: 
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: June 2015 (1 year)
+    i18n: 
   job:
-    detail: Full Stack Developer
+    detail: Android Native & Hybrid apps Developer 
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-mobile
+
+- name:
+    detail: Master degree at Universidad Pontifícia de Salamanca UPSA
+    i18n: UPSA
+  desc:
+    detail: I decided to start this master because I like a lot mobile technologies.
+    i18n: 
+  date:
+    detail: 2016/2017 (1 year)
+    i18n: 
+  job:
+    detail: Student
+    i18n: Student
+  icon: fa-mobile
+
+- name:
+    detail: Urban Data Analytics UDA
+    i18n: UDA
+  desc:
+    detail: "At the beginning I started to work here as a half-time full remote. After six months I started full-time with them. 
+    Technology used Play framework Java, RabbitMQ, python, Django, PostgreSQL, MySQL"
+    i18n: 
+  date:
+    detail: January 2017 (1 year, 9 months)
+    i18n: 
+  job:
+    detail: Junior Data Engineer
+    i18n: Junior Data Engineer
+  icon: fa-database
+
+- name:
+    detail: The Business Innovation Consulting Group. BICG
+    i18n: BICG
+  desc:
+    detail: Technology used, Google cloud, Python, NodeJS, Apache Beam
+    i18n: 
+  date:
+    detail: September 2019 (Nowadays...)
+    i18n: 
+  job:
+    detail: Data Engineer
+    i18n: Data Engineer
+  icon: fa-database
