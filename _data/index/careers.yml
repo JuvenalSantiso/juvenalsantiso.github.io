@@ -4,7 +4,7 @@
     detail: 4D3 / Estudio de animación y desarrollo de Apps
     i18n: 4D3 Animation Studio
   desc:
-    detail: I worked at 4D3 using Unity with C#. I was developing a video game for kids.
+    detail: I worked at 4D3 developing a kid's video game using Unity with C#.
     i18n: 
   date:
     detail: February 2014 (3 months)
@@ -18,7 +18,7 @@
     detail: Atos Consulting Group
     i18n: Atos
   desc:
-    detail: At the beginning I worked at Atos as an intership. They were teaching me java JEE environment but I ended in android team. I was building hybrids apps and native apps almost a year.
+    detail: I worked as an intern for Atos, building hybrid and native apps for almost a year.  I started learning java JEE environment and ended working for the Android team. 
     i18n: 
   date:
     detail: June 2015 (1 year)
@@ -29,10 +29,11 @@
   icon: fa-mobile
 
 - name:
-    detail: Master degree at Universidad Pontifícia de Salamanca UPSA
+    detail: Scholarship and Master degree at Universidad Pontifícia de Salamanca UPSA
     i18n: UPSA
   desc:
-    detail: Thanks to scholarship I got to study a master degree, I was able to learn more in-depth about mobile technologies.
+    detail: •	Thanks to a scholarship I got to study a master’s degree where I was able to learn more in-depth about mobile technologies.
+
     i18n: 
   date:
     detail: 2016/2017 (1 year)
@@ -43,25 +44,11 @@
   icon: fa-mobile
 
 - name:
-    detail: Scholarship at Universidad Pontifícia de Salamanca UPSA
-    i18n: UPSA
-  desc:
-    detail: I had a scholarship while I was doing my master's degree.
-    i18n: 
-  date:
-    detail: 2016/2017 (1 year)
-    i18n: 
-  job:
-    detail: Intern
-    i18n: Student
-  icon: fa-mobile
-
-- name:
     detail: Urban Data Analytics UDA
     i18n: UDA
   desc:
-    detail: "At the beginning I started to work here as a half-time full remote. After six months I started full-time with them. 
-    Technology used Play framework Java, RabbitMQ, python, Django, PostgreSQL, MySQL"
+    detail: "I started working for UDA as a half-time full remote and after six months I continued to work full-time.
+    To develop the technology, I used Play framework Java, RabbitMQ, python, Django, PostgreSQL and MySQL"
     i18n: 
   date:
     detail: January 2017 (1 year, 9 months)
@@ -75,7 +62,7 @@
     detail: The Business Innovation Consulting Group. BICG
     i18n: BICG
   desc:
-    detail: Technology used, Google cloud, Python, NodeJS, Apache Beam
+    detail: Currently I am working as a Data Engineer for BICG where I am using  Google cloud, Python, NodeJS and Apache Beam. 
     i18n: 
   date:
     detail: September 2019 (Nowadays...)
