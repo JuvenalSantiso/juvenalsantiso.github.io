@@ -32,13 +32,27 @@
     detail: Master degree at Universidad Pontifícia de Salamanca UPSA
     i18n: UPSA
   desc:
-    detail: I decided to start this master because I like a lot mobile technologies.
+    detail: Thanks to scholarship I got to study a master degree, I was able to learn more in-depth about mobile technologies.
     i18n: 
   date:
     detail: 2016/2017 (1 year)
     i18n: 
   job:
     detail: Student
+    i18n: Student
+  icon: fa-mobile
+
+- name:
+    detail: Scholarship at Universidad Pontifícia de Salamanca UPSA
+    i18n: UPSA
+  desc:
+    detail: I had a scholarship while I was doing my master's degree.
+    i18n: 
+  date:
+    detail: 2016/2017 (1 year)
+    i18n: 
+  job:
+    detail: Intern
     i18n: Student
   icon: fa-mobile
 
