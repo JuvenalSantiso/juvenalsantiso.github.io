@@ -62,10 +62,24 @@
     detail: The Business Innovation Consulting Group. BICG
     i18n: BICG
   desc:
-    detail: Currently I am working as a Data Engineer for BICG where I am using  Google cloud, Python, NodeJS and Apache Beam. 
+    detail: I was working as a Data Engineer for BICG where I am using  Google cloud, Python, NodeJS and Apache Beam. 
     i18n: 
   date:
-    detail: September 2018 (Nowadays...)
+    detail: September 2018 (9 months)
+    i18n: 
+  job:
+    detail: Data Engineer
+    i18n: Data Engineer
+  icon: fa-database
+
+- name:
+    detail: BBVA Next 
+    i18n: BBVA
+  desc:
+    detail: Currently I am working as a Data Engineer and Sofware developer for BBVA Next where I am using Google cloud, Python, Django... 
+    i18n: 
+  date:
+    detail: May 2019 (Nowadays...)
     i18n: 
   job:
     detail: Data Engineer
