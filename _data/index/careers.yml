@@ -79,7 +79,21 @@
     detail: Currently I am working as a Data Engineer and Sofware developer for BBVA Next where I am using Google cloud, Python, Django... 
     i18n: 
   date:
-    detail: May 2019 (Nowadays...)
+    detail: May 2019 (2 years)
+    i18n: 
+  job:
+    detail: Data Engineer
+    i18n: Data Engineer
+  icon: fa-database
+
+  - name:
+    detail: Bluetab Solutions
+    i18n: Bluetab
+  desc:
+    detail: Currently I am working as a Data Engineer and Sofware developer for Bluetab Solutions where I am using all types of clouds, Python, Django, flasks... 
+    i18n: 
+  date:
+    detail: May 2021 (Nowadays...)
     i18n: 
   job:
     detail: Data Engineer
